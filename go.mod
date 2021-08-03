@@ -1,4 +1,4 @@
-module fakeslave
+module binlog_getter
 
 go 1.16
 
